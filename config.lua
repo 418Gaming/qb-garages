@@ -97,6 +97,13 @@ Garages = {
         putVehicle = vector3(218.0894, -781.370, 30.389),
         showBlip = true
     },
+    ["sahpstation"] = {
+        label = "SAHP Highway Parking",
+        takeVehicle = vector3(1515.92, 792.09, 77.44),
+        spawnPoint = vector4(1536.43, 783.5, 77.44, 119.04),
+        putVehicle = vector3(1536.43, 783.5, 77.44),
+        showBlip = true
+    },
 }
 
 HouseGarages = {}
